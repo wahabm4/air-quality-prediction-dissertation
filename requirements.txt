@@ -7,4 +7,4 @@ xgboost
 statsmodels
 joblib
 requests
-tensorflow-cpu
+tensorflow-cpu==2.15.1
